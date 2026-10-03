@@ -1,5 +1,9 @@
 # 更新支持DeepSeek v4 flash/pro
 使用opencore + deepseek flash api完成的，有bug麻烦自己修，我完全不懂代码
+<img width="1054" height="402" alt="image" src="https://github.com/user-attachments/assets/f344547a-a291-4ea9-ab28-db8288944dad" /><img width="620" height="934" alt="image" src="https://github.com/user-attachments/assets/d7ad46a9-2e7e-4e38-bdc7-65989651c929" />
+取消recommended之后可以选模型
+
+
 # 🚀 DeepSeek智能家居对话助手
 
 ![Home Assistant版本要求](https://img.shields.io/badge/homeassistant-2024.3%2B-blue)
