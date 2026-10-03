@@ -1,3 +1,5 @@
+# 更新支持DeepSeek v4 flash/pro
+使用opencore + deepseek flash api完成的，有bug麻烦自己修，我完全不懂代码
 # 🚀 DeepSeek智能家居对话助手
 
 ![Home Assistant版本要求](https://img.shields.io/badge/homeassistant-2024.3%2B-blue)
